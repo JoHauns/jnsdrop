@@ -1,7 +1,10 @@
 {
   "name": "jnsdrop",
 	"version": "0.0.1",
-	"main": "dist/jnsdrop.js",
+	"main": [
+		"./dist/js/jnsdrop.js",
+		"./dist/css/jnsdrop.css"
+	],
     "ignore": [
         "src",
         "lib",
