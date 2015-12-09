@@ -5,18 +5,18 @@
 		"./dist/js/jnsdrop.js",
 		"./dist/css/jnsdrop.css"
 	],
-    "ignore": [
-        "src",
-        "lib",
-        ".bowerrc",
-        ".gitignore",
-        ".jshintignore",
-        ".jshintrc",
-        "bower.json",
-        "gruntfile.js",
-        "package.json",
-        "README.md"
-    ],
+	"ignore": [
+			"src",
+			"lib",
+			".bowerrc",
+			".gitignore",
+			".jshintignore",
+			".jshintrc",
+			"bower.json",
+			"gruntfile.js",
+			"package.json",
+			"README.md"
+	],
   "dependencies": {
     "jquery": "~2.1.4"
   }
