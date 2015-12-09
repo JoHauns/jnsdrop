@@ -15,6 +15,7 @@
 			"bower.json",
 			"gruntfile.js",
 			"package.json",
+			"gulpfile.js",
 			"README.md"
 	],
   "dependencies": {
